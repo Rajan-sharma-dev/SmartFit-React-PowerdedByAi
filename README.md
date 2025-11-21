@@ -1,3 +1,18 @@
+# SmartFit React (minimal)
+
+This repository now contains a minimal Vite + React app in the project root with:
+- React Router for routing
+- Redux Toolkit store
+- Vitest + Testing Library tests
+
+Quick start (Windows PowerShell):
+
+```powershell
+npm install
+npm run dev
+# run tests
+npm test
+```
 # SmartFit-React-PowerdedByAi
 
 Starter React + TypeScript + Vite app for SmartFit — AI-Powered.

@@ -1,0 +1,39 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# test coverage
+coverage/
+
+# local env
+.firebase/
+.cache/
+
+# node binary
+node_modules/
+
+# optional npm cache
+.npm

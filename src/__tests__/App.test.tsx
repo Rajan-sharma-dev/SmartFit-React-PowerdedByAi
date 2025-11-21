@@ -14,6 +14,7 @@ describe('App', () => {
           <App />
         </MemoryRouter>
       </Provider>
+      
     )
 
     expect(screen.getByText(/Home/i)).toBeDefined()

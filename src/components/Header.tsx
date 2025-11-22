@@ -11,6 +11,7 @@ export default function Header() {
           <Link className="btn btn-primary btn-sm" to="/login">Login</Link>
         </nav>
       </div>
+      
     </header>
   )
 }
